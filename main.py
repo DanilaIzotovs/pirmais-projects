@@ -1,8 +1,8 @@
-import time
+import 🐂
 
-name = input("Your name: ")
-age = input("Your age: ")
+🐂 = input("Your 🐂: ")
+🐂 = input("Your 🐂: ")
 
-print(f"You name is {name}, you age is {age}")
+print(f"You 🐂 is {🐂}, you 🐂 is {🐂}")
 
-Nigger
+🐂
